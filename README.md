@@ -1,6 +1,6 @@
-### README for Feedback Application
+### README for Feedback Application 
 
-## Project Overview
+## Project Overview:
 
 This project is a feedback application that allows users to submit feedback, view feedback, and filter feedback based on ratings. It consists of a **backend** built with Python and Flask and a **frontend** built with React. The backend uses SQLite as the database to store feedback data, while the frontend provides a user-friendly interface for interacting with the application.
 
